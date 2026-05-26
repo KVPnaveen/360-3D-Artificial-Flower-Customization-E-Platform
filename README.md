@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RedShan360 Frontend - 3D Artificial Flower Customization E-Platform
 
 A modern, scalable React.js frontend for a comprehensive e-commerce and 3D customization platform.
@@ -156,3 +157,7 @@ Ensure `src/index.css` has Tailwind directives and dev server is running.
 ## 📝 License
 
 © 2026 RedShan360. All rights reserved.
+=======
+# 360-3D-Artificial-Flower-Customization-E-Platform
+This is a web-based artificial flower customization and e-commerce platform featuring 3D product customization, 360° product visualization, secure online ordering, and centralized business management.
+>>>>>>> 6f3d076d5b8580489b3819471360836d1c01275b
