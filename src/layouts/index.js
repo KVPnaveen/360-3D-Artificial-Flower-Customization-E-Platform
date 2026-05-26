@@ -1,0 +1,6 @@
+export { default as MainLayout } from './MainLayout'
+export { default as AdminLayout } from './AdminLayout'
+export { default as DashboardLayout } from './DashboardLayout'
+export { default as CustomerLayout } from './CustomerLayout'
+export { default as ManagerLayout } from './ManagerLayout'
+export { default as EmployeeLayout } from './EmployeeLayout'
