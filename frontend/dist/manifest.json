@@ -1,0 +1,16 @@
+{
+  "name": "RedShan360",
+  "short_name": "RedShan360",
+  "description": "3D Artificial Flower Customization E-Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#8b5cf6",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
